@@ -6,8 +6,10 @@ import java.util.Scanner;
 
 public class M5CW2_Green {
 public static void main(String[] args){
-    Scanner input = new Scanner(System.in);
-    System.out.println();
+
+Scanner input = new Scanner(System.in);
+
+System.out.println();
 
     //Start\\
     
